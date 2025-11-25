@@ -1,5 +1,4 @@
 ## Flutter Shoes Shop Application UI Design and Animation
-# 👟 Shoe Shopping App UI
 
 A beautiful and modern **Shoe Shopping Application** built with **Flutter**. This project demonstrates a sleek UI design with smooth animations, providing a premium user experience for browsing and purchasing footwear.
 
@@ -74,14 +73,3 @@ Shoe-shopping/
 │   └── widgets/    # Reusable UI components
 ├── pubspec.yaml    # Project dependencies and asset definitions
 └── README.md       # Project documentation
-```
-## Development Setup
-Clone the repository and run the following commands:
-```
-flutter pub get
-flutter run
-```
-
-## ScreenShot
-
-<img src="assets/screenshot/one.png" height="500em" />&nbsp;<img src="assets/screenshot/two.png" height="500em" />&nbsp;<img src="assets/screenshot/three.png" height="500em" />&nbsp;<img src="assets/screenshot/four.png" height="500em" />
